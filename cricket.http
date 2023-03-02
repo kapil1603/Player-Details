@@ -12,7 +12,7 @@ Content-Type: application/json
 
 ###
 // get player detail
-GET http://localhost:3000/players/1/
+GET http://localhost:3000/players/3/
 
 ###
 //Updates the detail
