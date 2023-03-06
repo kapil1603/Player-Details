@@ -10,9 +10,15 @@ Content-Type: application/json
   "role": "Bowler"
 }
 
+# {
+#   "playerName": "kapil",
+#   "jerseyNumber": 15,
+#   "role": "Bowler"
+# }
+
 ###
 // get player detail
-GET http://localhost:3000/players/3/
+GET http://localhost:3000/players/4/
 
 ###
 //Updates the detail
